@@ -1,4 +1,4 @@
-<h3 align="center">
+<h1 align="center">
 Nur Cahyo Aprianto
 </h3>
 
