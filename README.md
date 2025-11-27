@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nur Cahyo Aprianto</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+<!-- Intro baru -->
+<p align="left">
+  I'm a fresh graduate in Informatics Engineering with a strong interest in frontend development and UI/UX. 
+  I enjoy turning ideas into clean, responsive, and user-friendly interfaces. 
+  Lately, I’ve also been exploring testing automation using Katalon Studio to strengthen my QA skills.  
+  I'm always open to learning new tools, collaborating on projects, and improving my craft.
+</p>
+
 <img 
   align="right"
   width="400"
@@ -15,13 +23,6 @@
 - 🌱 I’m currently learning **React**
 - 💬 Ask me about **Web Development**
 - 📫 How to reach me: **nurcahyo81821@gmail.com**
-
-<!--<h3 align="left">Connect with me:</h3>
-<!-- <p align="left">
-  <a href="https://instagram.com/chyo.nr" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chyo.nr" height="30" width="40" />
-  </a> 
-</p> -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
