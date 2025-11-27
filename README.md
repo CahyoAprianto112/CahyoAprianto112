@@ -1,79 +1,95 @@
-<h1 align="center">Hi 👋, I'm Nur Cahyo Aprianto</h1>
-<h3 align="center">Software Quality Assurance | Former Frontend Learner</h3>
+# Nur Cahyo Aprianto
 
-<img 
-  align="right"
-  width="350"
-  src="https://camo.githubusercontent.com/0499a9d17248b0ef56dae9a63b09b16cc07d7a02f579fdc0a7cb81975dafbebb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966"
-/>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cahyoaprianto112&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+**Software Quality Assurance | Test Automation Enthusiast**
 
----
+[![Profile views](https://komarev.com/ghpvc/?username=cahyoaprianto112&label=Views&color=0e75b6&style=flat-square)](https://github.com/cahyoaprianto112)
+[![Email](https://img.shields.io/badge/Email-nurcahyo81821%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:nurcahyo81821@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-cahyoaprianto112-black?style=flat-square&logo=github)](https://github.com/cahyoaprianto112)
 
-## 🧩 About Me
-I am a graduate in Informatics Engineering with a strong interest in **Software Quality Assurance**, focusing on test planning, scenario creation, manual testing, and automation workflows.  
-I previously studied frontend development, which helps me understand UI structure, component behavior, and potential failure points more effectively.
-
-I am currently learning and practicing **automation testing using Katalon Studio (Groovy)** to strengthen my ability in building reusable test cases, validating critical flows, and ensuring product quality.
-
-I am always open to learning new tools, improving my testing approach, and contributing to high-quality software delivery.
+</div>
 
 ---
 
-## 🔍 Areas of Focus
-- Manual Testing  
-- Test Case & Scenario Development  
-- Bug Reporting & Defect Tracking  
-- Test Automation (Katalon Studio – Groovy)  
-- API Testing (Postman)  
-- Basic Frontend Understanding (HTML, CSS, JavaScript, React) — previously studied
+## 👋 About Me
+
+I'm an Informatics Engineering graduate specializing in **Software Quality Assurance** with a foundation in frontend development. My focus is on creating robust test strategies, automating critical workflows, and ensuring high-quality software delivery.
+
+With experience in both manual testing and automation, I'm passionate about building reliable test cases, identifying edge cases, and maintaining product quality through comprehensive testing approaches.
 
 ---
 
-## 📫 Contact
-- Email: **nurcahyo81821@gmail.com**
+## 🎯 Expertise
+
+**Testing & QA**
+- Manual Testing & Test Case Development
+- Test Automation (Katalon Studio – Groovy)
+- API Testing (Postman)
+- Bug Reporting & Defect Tracking
+- Test Scenario Planning
+
+**Frontend Fundamentals** *(Previously Studied)*
+- HTML5 • CSS3 • JavaScript
+- React • Tailwind CSS
+- UI/UX Understanding
 
 ---
 
-## 🛠️ Tools & Technologies
-<p align="left">
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a>
-  <a><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
-  <a><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-  <a><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/></a>
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-</p>
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Katalon](https://img.shields.io/badge/Katalon%20Studio-06B6D4?style=for-the-badge&logo=katalon&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
-<table align="center">
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=cahyoaprianto112&layout=compact&theme=dark"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=cahyoaprianto112&show_icons=true&theme=dark"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://streak-stats.demolab.com?user=cahyoaprianto112&theme=dark" 
-        alt="GitHub Streak"
-      />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cahyoaprianto112&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/cahyoaprianto112)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cahyoaprianto112&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/cahyoaprianto112)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=cahyoaprianto112&theme=tokyonight&hide_border=true)](https://github.com/cahyoaprianto112)
+
+</div>
 
 ---
+
+## 🚀 Current Focus
+
+- Advancing automation testing skills with **Katalon Studio**
+- Building scalable and reusable test frameworks
+- Exploring best practices in test case management
+- Continuously improving software quality processes
+
+---
+
+## 📬 Get In Touch
+
+Feel free to reach out if you'd like to discuss QA strategies, testing approaches, or collaborate on projects!
+
+📧 **Email:** [nurcahyo81821@gmail.com](mailto:nurcahyo81821@gmail.com)
+🐙 **GitHub:** [cahyoaprianto112](https://github.com/cahyoaprianto112)
+
+---
+
+<div align="center">
+
+**Made with ❤️ by Nur Cahyo Aprianto**
+
+</div>
