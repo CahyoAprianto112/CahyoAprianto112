@@ -1,6 +1,6 @@
-<div align="center">
-# Nur Cahyo Aprianto
-</div>
+<h3 align="center">
+Nur Cahyo Aprianto
+</h3>
 
 <div align="center">
 
