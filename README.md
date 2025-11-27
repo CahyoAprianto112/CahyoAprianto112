@@ -1,4 +1,6 @@
+<div align="center">
 # Nur Cahyo Aprianto
+</div>
 
 <div align="center">
 
@@ -88,8 +90,5 @@ Feel free to reach out if you'd like to discuss QA strategies, testing approache
 
 ---
 
-<div align="center">
 
-**Made with ❤️ by Nur Cahyo Aprianto**
 
-</div>
