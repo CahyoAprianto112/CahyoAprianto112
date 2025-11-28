@@ -7,7 +7,7 @@ Nur Cahyo Aprianto
 **Software Quality Assurance | Test Automation Enthusiast**
 
 [![Profile views](https://komarev.com/ghpvc/?username=cahyoaprianto112&label=Views&color=0e75b6&style=flat-square)](https://github.com/cahyoaprianto112)
-[![Email](https://img.shields.io/badge/Email-nurcahyo81821%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:nurcahyo81821@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nurcahyo81821%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:ncahyoaprianto@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-cahyoaprianto112-black?style=flat-square&logo=github)](https://github.com/cahyoaprianto112)
 
 </div>
